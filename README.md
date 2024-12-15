@@ -47,7 +47,7 @@ to-do-list-app/
 
 Here’s an example of how to use the `ToDoList` class:
 
-    ```bash
+```bash
     from src.todo import ToDoList
 
     # Create a new To-Do List
@@ -59,7 +59,7 @@ Here’s an example of how to use the `ToDoList` class:
 
     # Display tasks
     todo_list.display_tasks()
-    ```
+```
 
 ## Contributing
 
