@@ -23,23 +23,23 @@ to-do-list-app/
 
 1. Clone the repository:
 
-```
-git clone https://github.com/marwan-ahmed-23/to-do-list-app.git
-```
+    ```
+    git clone https://github.com/marwan-ahmed-23/to-do-list-app.git
+    ```
 
 2. Navigate to the project directory:
-
-```
-cd to-do-list-app
-```
+    
+    ```
+    cd to-do-list-app
+    ```
 
 ## Usage
 
 1. Run the example script:
 
-```
-python examples/example.py
-```
+    ```
+    python examples/example.py
+    ```
 
 2. Explore the `todo.py` file to customize functionality.
 
