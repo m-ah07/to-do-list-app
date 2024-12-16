@@ -23,23 +23,23 @@ to-do-list-app/
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/marwan-ahmed-23/to-do-list-app.git
-    ```
+```
+git clone https://github.com/marwan-ahmed-23/to-do-list-app.git
+```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd to-do-list-app
-    ```
+```
+cd to-do-list-app
+```
 
 ## Usage
 
 1. Run the example script:
 
-    ```bash
-    python examples/example.py
-    ```
+```
+python examples/example.py
+```
 
 2. Explore the `todo.py` file to customize functionality.
 
@@ -47,18 +47,18 @@ to-do-list-app/
 
 Here’s an example of how to use the `ToDoList` class:
 
-```bash
-    from src.todo import ToDoList
+```
+from src.todo import ToDoList
 
-    # Create a new To-Do List
-    todo_list = ToDoList()
+# Create a new To-Do List
+todo_list = ToDoList()
 
-    # Add tasks
-    todo_list.add_task("Learn Python")
-    todo_list.add_task("Build a GitHub repository")
+# Add tasks
+todo_list.add_task("Learn Python")
+todo_list.add_task("Build a GitHub repository")
 
-    # Display tasks
-    todo_list.display_tasks()
+# Display tasks
+todo_list.display_tasks()
 ```
 
 ## Contributing
