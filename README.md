@@ -8,8 +8,8 @@ A simple Python-based command-line tool for managing tasks. It allows users to a
 - Delete tasks from the list.
 - Save and load tasks from a JSON file.
 
-## Directory Structure
-
+## 📂 Directory Structure
+```plaintext
 to-do-list-app/
 ├── src/
 │   └── todo.py          # Main script containing the logic for the To-Do List
@@ -17,7 +17,7 @@ to-do-list-app/
 │   └── example.py       # Example script demonstrating the usage of the app
 ├── .gitignore           # Git ignore file
 └── README.md            # Documentation file
-
+```
 
 ## Installation
 
