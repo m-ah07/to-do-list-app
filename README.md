@@ -2,7 +2,7 @@
 
 A simple Python-based command-line tool for managing tasks. It allows users to add, view, update, and delete tasks while storing task data in a local file.
 
-## Features
+## 🚀 Features
 - Add tasks to the list.
 - Mark tasks as completed.
 - Delete tasks from the list.
@@ -19,7 +19,7 @@ to-do-list-app/
 └── README.md            # Documentation file
 ```
 
-## Installation
+## 🔧 Installation
 
 1. Clone the repository:
 
@@ -61,7 +61,7 @@ todo_list.add_task("Build a GitHub repository")
 todo_list.display_tasks()
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
