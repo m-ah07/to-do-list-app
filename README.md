@@ -12,11 +12,12 @@ A simple Python-based command-line tool for managing tasks. It allows users to a
 ```plaintext
 to-do-list-app/
 ├── src/
-│   └── todo.py          # Main script containing the logic for the To-Do List
+│   └── todo.py
 ├── examples/
-│   └── example.py       # Example script demonstrating the usage of the app
-├── .gitignore           # Git ignore file
-└── README.md            # Documentation file
+│   └── example.py
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ## 🔧 Installation
@@ -33,7 +34,7 @@ to-do-list-app/
     cd to-do-list-app
     ```
 
-## Usage
+## 📖 Usage
 
 1. Run the example script:
 
@@ -65,4 +66,5 @@ todo_list.display_tasks()
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-
+## 🌟 Stay Connected
+Feel free to star ⭐ this repository if you find it helpful!
