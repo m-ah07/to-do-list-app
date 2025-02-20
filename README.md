@@ -25,7 +25,7 @@ to-do-list-app/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/marwan-ahmed-23/to-do-list-app.git
+    git clone https://github.com/m-ah07/to-do-list-app.git
     ```
 
 2. Navigate to the project directory:
